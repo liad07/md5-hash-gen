@@ -1,0 +1,7 @@
+    *{background-color: cornflowerblue}
+    #text{
+        border-radius: 50px;
+        text-align: center;
+        background-color:white ;
+        border: none;
+    }
